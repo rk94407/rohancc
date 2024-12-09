@@ -57,3 +57,12 @@ This project focuses on developing a machine learning (ML) model for wine qualit
 # Dockerization
 1.	Build the Docker container for the application
 2.	Run the Docker container:
+
+
+
+
+## This is my git repo
+https://github.com/rk94407/rohancc
+
+## This is my docker image
+https://hub.docker.com/repository/docker/rohankatkam1698/testwinequalityprediction/general
